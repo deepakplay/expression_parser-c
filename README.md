@@ -1,2 +1,2 @@
 # expression_parser-c
-C Program to Parse Complicated mathematical equation like acompiler
+C Program to Parse  mathematical equation like a compiler
